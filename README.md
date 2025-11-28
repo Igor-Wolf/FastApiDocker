@@ -20,3 +20,12 @@ uvicorn main:app  --port 8000 --reload
 doocker 
 
 docker run -d -p 8000:8000 fastapi
+
+
+Lembrar de gerar o token em 
+
+https://github.com/settings/tokens do tipo classico
+
+
+Lebrar de configurar o secret do repositório em 
+/settings/secrets/actions GH_PAT
