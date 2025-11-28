@@ -1,0 +1,3 @@
+.env
+venv310/
+__pycache__/
